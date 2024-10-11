@@ -1,9 +1,13 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
+name: DCMADE
+about: my tourist life
+title: 'outdoorLiving'
 labels: enhancement
-assignees: ShMcK
+assignees: Panfed
+project:
+bodyx:
+instances:
+ent:
 
 ---
 
